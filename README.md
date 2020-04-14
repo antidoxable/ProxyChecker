@@ -8,7 +8,7 @@
 2. ```cd ProxyChecker```
 3. ```python proxycheck.py -h ```
 
-## A linux operating system. I recommend using:
+## Tested Operating System, I recommend using:
 - Kali Linux 
 - Ubuntu
 - Debian

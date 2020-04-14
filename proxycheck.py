@@ -27,8 +27,7 @@ import random
 import socket
 import sys
 import threading
-import os, os.path
-import errno
+
 try:
     import urllib.request as rq
     from urllib.error import HTTPError

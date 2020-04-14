@@ -1,6 +1,6 @@
-# Antidoxables Proxy Checker (HTTP/HTTPS)
+# Ⓐnti-Doxables Proxy Checker (HTTP/HTTPS)
 
-### Author: [@antidoxable](https://twitter.com/antidoxable)
+### Author: [Ⓐnti-Doxable](https://twitter.com/antidoxable)
 ### https://github.com/antidoxable/ProxyChecker/
 
 ## Getting Started
